@@ -74,7 +74,7 @@ app.get('/', (req, res) => {
         </head>
         <body>
             <div class="container">
-                <h1>Welcome To <span id="popText">SenDevOps</span></h1>
+                <h1>Welcome To <span id="popText">Saurabh-node-js-projectDevOps</span></h1>
                 <p>Your journey to excellence in software development and operations begins here!</p>
             </div>
 
